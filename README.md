@@ -15,13 +15,13 @@ Welcome to the Hospital Information System project! This project serves as my fi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hospital-information-system.git
+   git clone https://github.com/SophiaSiddiqi/Automated-Information-System-for-Hospital.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd hospital-information-system
+   cd Automated-Information-System-for-Hospital
    ```
 
 3. Run the main Python script:
